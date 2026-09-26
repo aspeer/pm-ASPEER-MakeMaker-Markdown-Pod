@@ -1,5 +1,9 @@
 Revision history for ASPEER-MakeMaker-Markdown-Pod
 
+1.014  2026-09-26
+
+    - Refer only to the public GitHub repository in installation guidance.
+
 1.013  2026-09-26
 
     - Publish public repository metadata through the GitHub mirror.
