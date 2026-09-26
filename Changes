@@ -1,8 +1,9 @@
 Revision history for ASPEER-MakeMaker-Markdown-Pod
 
-1.011  2026-09-26
+1.012  2026-09-26
 
     - Separate reusable Markdown processing from MakeMaker integration.
     - Add DocBook discovery and sidecar-driven documentation targets.
     - Leave the markpod command with Markdown-Pod-Embed.
     - Prepare the MakeMaker adapter for its first CPAN release.
+    - Install pandoc in GitHub Actions for documentation integration tests.
