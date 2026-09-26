@@ -38,7 +38,7 @@ use Digest::MD5 qw(md5_hex);
 #  Version information in a formate suitable for CPAN etc. Must be
 #  all on one line
 #
-$VERSION='0.012';
+$VERSION='1.010';
 
 
 #  All done, init finished
