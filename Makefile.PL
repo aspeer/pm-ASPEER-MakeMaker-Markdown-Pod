@@ -54,18 +54,19 @@ my %WriteMakefile=(
         'Test::More'            =>  0,
     },
     META_MERGE => {
+        x_authority     => 'cpan:ASPEER',
         'meta-spec'     => {
             version     => 2
         },
         resources       => {
             bugtracker  => {
-                web     => 'https://gitea.isolutions.com.au/aspeer/pm-ASPEER-MakeMaker-Markdown-Pod/issues',
+                web     => 'https://github.com/aspeer/pm-ASPEER-MakeMaker-Markdown-Pod/issues',
             },
-            homepage    => 'https://gitea.isolutions.com.au/aspeer/pm-ASPEER-MakeMaker-Markdown-Pod',
+            homepage    => 'https://github.com/aspeer/pm-ASPEER-MakeMaker-Markdown-Pod',
             repository  => {
                 type    => 'git',
-                url     => 'https://gitea.isolutions.com.au/aspeer/pm-ASPEER-MakeMaker-Markdown-Pod.git',
-                web     => 'https://gitea.isolutions.com.au/aspeer/pm-ASPEER-MakeMaker-Markdown-Pod'
+                url     => 'https://github.com/aspeer/pm-ASPEER-MakeMaker-Markdown-Pod.git',
+                web     => 'https://github.com/aspeer/pm-ASPEER-MakeMaker-Markdown-Pod'
             }
         }
     },

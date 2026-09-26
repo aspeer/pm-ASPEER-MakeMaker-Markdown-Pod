@@ -7,7 +7,7 @@ Install the released distribution with a CPAN client:
 To install a checkout from the authoritative Gitea repository:
 
 ```sh
-git clone https://gitea.isolutions.com.au/aspeer/pm-ASPEER-MakeMaker-Markdown-Pod.git
+git clone https://github.com/aspeer/pm-ASPEER-MakeMaker-Markdown-Pod.git
 cd pm-ASPEER-MakeMaker-Markdown-Pod
 perl Makefile.PL
 make

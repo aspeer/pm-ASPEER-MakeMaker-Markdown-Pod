@@ -6,7 +6,7 @@ cpanm ASPEER::MakeMaker::Markdown::Pod
 
 To install a checkout from the authoritative Gitea repository:
 
-    git clone https://gitea.isolutions.com.au/aspeer/pm-ASPEER-MakeMaker-Markdown-Pod.git
+    git clone https://github.com/aspeer/pm-ASPEER-MakeMaker-Markdown-Pod.git
     cd pm-ASPEER-MakeMaker-Markdown-Pod
     perl Makefile.PL
     make
