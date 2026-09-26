@@ -1,12 +1,12 @@
-requires 'ASPEER::MakeMaker', '1.006';
+requires 'ASPEER::MakeMaker', '1.010';
 requires 'Cwd';
 requires 'Digest::MD5';
-requires 'Docbook::Convert', '0.028';
+requires 'Docbook::Convert', '1.010';
 requires 'ExtUtils::Manifest';
 requires 'Exporter';
 requires 'File::Basename';
 requires 'File::Spec';
-requires 'Markdown::Pod::Embed', '0.011';
+requires 'Markdown::Pod::Embed', '1.010';
 requires 'perl', '5.010';
 requires 'strict';
 requires 'vars';
